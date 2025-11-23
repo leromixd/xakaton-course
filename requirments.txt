@@ -1,0 +1,9 @@
+flask==2.2.5
+asyncio
+calendar
+datetime
+flask_admin
+sqlalchemy.orm
+sqlalchemy
+python-telegram-bot
+flask_sqlalchemy
